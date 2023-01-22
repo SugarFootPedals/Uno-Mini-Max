@@ -1,5 +1,5 @@
 # Uno-Mini-Max
-a breadboard sized Uno with many added Features
+a breadboard sized (6.1mm x 2.5mm) Uno with many added Features
 
 Vibrino Uno Mini Max: 
 
